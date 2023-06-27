@@ -1,4 +1,5 @@
 https://coder-xbai.github.io/2023/06/18/SparseArray.html
+https://coder-xbai.github.io/2023/06/27/mysql-1.html
 https://coder-xbai.github.io/about/index.html
 https://coder-xbai.github.io/categories/index.html
 https://coder-xbai.github.io/tags/index.html
@@ -6,5 +7,6 @@ https://coder-xbai.github.io/2023/02/01/MongDB.html
 https://coder-xbai.github.io/
 https://coder-xbai.github.io/tags/MongoDB/
 https://coder-xbai.github.io/tags/SparseArray/
+https://coder-xbai.github.io/tags/MySql%E5%88%9D%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/
 https://coder-xbai.github.io/categories/database/
 https://coder-xbai.github.io/categories/data-Structures-algorithm/
