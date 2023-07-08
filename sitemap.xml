@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coder-xbai.github.io/2023/06/29/spring6.html</loc>
+    
+    <lastmod>2023-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://coder-xbai.github.io/2023/02/01/MongDB.html</loc>
     
     <lastmod>2023-07-08</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://coder-xbai.github.io/2023/06/27/mysql-1.html</loc>
-    
-    <lastmod>2023-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://coder-xbai.github.io/2023/06/29/spring6.html</loc>
     
     <lastmod>2023-07-08</lastmod>
     
