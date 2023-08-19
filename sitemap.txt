@@ -9,9 +9,9 @@ https://coder-xbai.github.io/categories/index.html
 https://coder-xbai.github.io/tags/index.html
 https://coder-xbai.github.io/
 https://coder-xbai.github.io/tags/MongoDB/
-https://coder-xbai.github.io/tags/MySql%E5%88%9D%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/
 https://coder-xbai.github.io/tags/SparseArray/
 https://coder-xbai.github.io/tags/MySql%E4%B8%AD%E9%AB%98%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/
+https://coder-xbai.github.io/tags/MySql%E5%88%9D%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/
 https://coder-xbai.github.io/tags/Spring%E6%A1%86%E6%9E%B6/
 https://coder-xbai.github.io/categories/database/
 https://coder-xbai.github.io/categories/data-Structures-algorithm/
