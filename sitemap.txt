@@ -1,3 +1,5 @@
+https://coder-xbai.github.io/2023/10/10/%E9%9D%A2%E8%AF%95%E8%83%8C%E8%AF%B5%E7%AC%94%E8%AE%B0.html
+https://coder-xbai.github.io/2023/10/08/ruoyi-back-1.html
 https://coder-xbai.github.io/2023/07/08/t1.html
 https://coder-xbai.github.io/2023/09/05/redis-1.html
 https://coder-xbai.github.io/2023/06/29/spring6.html
@@ -18,3 +20,4 @@ https://coder-xbai.github.io/tags/Spring%E6%A1%86%E6%9E%B6/
 https://coder-xbai.github.io/categories/database/
 https://coder-xbai.github.io/categories/data-Structures-algorithm/
 https://coder-xbai.github.io/categories/JAVA/
+https://coder-xbai.github.io/categories/%E8%8B%A5%E4%BE%9D%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0/
