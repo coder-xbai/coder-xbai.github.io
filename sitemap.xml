@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://coder-xbai.github.io/2023/10/10/%E9%9D%A2%E8%AF%95%E8%83%8C%E8%AF%B5%E7%AC%94%E8%AE%B0.html</loc>
+    <loc>https://coder-xbai.github.io/2023/10/08/ruoyi-back-1.html</loc>
     
     <lastmod>2023-10-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://coder-xbai.github.io/2023/10/08/ruoyi-back-1.html</loc>
+    <loc>https://coder-xbai.github.io/2023/09/27/%E9%9D%A2%E8%AF%95%E8%83%8C%E8%AF%B5%E7%AC%94%E8%AE%B0.html</loc>
     
     <lastmod>2023-10-17</lastmod>
     
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://coder-xbai.github.io/tags/MySql%E5%88%9D%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/</loc>
+    <loc>https://coder-xbai.github.io/tags/ruoyi-1/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -147,6 +147,13 @@
   </url>
   
   <url>
+    <loc>https://coder-xbai.github.io/tags/MySql%E5%88%9D%E7%BA%A7%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/</loc>
+    <lastmod>2023-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://coder-xbai.github.io/tags/redis%E9%9D%A2%E8%AF%95%E5%B8%B8%E9%97%AE/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,7 +161,7 @@
   </url>
   
   <url>
-    <loc>https://coder-xbai.github.io/tags/ruoyi-1/</loc>
+    <loc>https://coder-xbai.github.io/tags/job/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -185,6 +192,13 @@
   
   <url>
     <loc>https://coder-xbai.github.io/categories/%E8%8B%A5%E4%BE%9D%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://coder-xbai.github.io/categories/%E6%89%BE%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
